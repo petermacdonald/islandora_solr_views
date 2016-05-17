@@ -21,7 +21,7 @@ Install as usual, see [this](https://drupal.org/documentation/install/modules-th
    
 ## Configuration
 
-Upon enabling the Drupal Views, Drupal Views UI and Islandora Solr Search modules, the Views configuration screen should be available at Administration » Structure » Views (admin/structure/views). From here, you can click 'Add new view' to start creating a Solr View.
+Upon enabling the Drupal Views, Drupal Views UI and Islandora Solr modules, the Views configuration screen should be available at Administration » Structure » Views (admin/structure/views). From here, you can click 'Add new view' to start creating a Solr View.
 
 ![Configuration](https://wiki.duraspace.org/download/attachments/34646092/Show.png)
 
